@@ -1,5 +1,5 @@
 # Object_detection using mobilenetSSD
-MobileNet SSD (Single Shot MultiBox Detector) is an object detection algorithm that combines the MobileNet architecture for feature extraction with a Single Shot MultiBox Detector for object detection. It is designed to be lightweight and efficient, making it suitable for real-time object detection tasks on mobile and embedded devices.
+MobileNet SSD (Single Shot MultiBox Detector) is an object detection algorithm that combines the MobileNet architecture for feature extraction with a Single Shot MultiBox Detector for object detection. It is designed to be lightweight and efficient, making it suitable for real-time object detection tasks on mobile and embedded devices.A realTime laptop camera feed input version is presented in this project
 
 Here's an overview of the MobileNet SSD algorithm:
 
